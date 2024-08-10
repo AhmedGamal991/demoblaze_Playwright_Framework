@@ -1,6 +1,6 @@
 # Nawy Task: Playwright Testing Framework
 
-This is a testing framework designed to automate testing for Demoblaze using Playwright and JavaScript and POM Design Pattern. 
+This is a testing framework designed to automate testing for Demoblaze using Playwright, JavaScript, and POM Design Pattern. 
 
 ## Installation
 
